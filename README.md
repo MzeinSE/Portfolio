@@ -1,7 +1,3 @@
-Here's your updated GitHub introduction with your LinkedIn profile included:  
-
----
-
 # 👋 Hi, I'm Mohammad El-Zein!  
 **Data Analyst | SQL | Python | Power BI | Data Visualization**  
 
@@ -28,7 +24,3 @@ Here's your updated GitHub introduction with your LinkedIn profile included:
 
 📫 **Let's Connect!**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-el-zein-ab7210250/) | 📧 Mohd-54@hotmail.com  
-
----
-
-This will make your GitHub profile **professional and engaging**. Would you like to include links to any specific GitHub repositories or projects? 🚀
