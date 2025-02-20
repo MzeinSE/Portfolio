@@ -7,9 +7,9 @@
 🔹 Adept at translating complex datasets into **clear, impactful reports for decision-makers**.  
 
 ## 🔍 What I Do  
-- Build **interactive dashboards** using Power BI to visualize key performance indicators.  
+- Build **interactive dashboards** using Power BI and DAX to visualize key performance indicators.  
 - Utilize **SQL & Python (Pandas, NumPy, Scikit-Learn)** for data wrangling and predictive modeling.  
-- Develop **automated reports** for HR, finance, and sales data.  
+- Develop **automated reports** for all kinds of data.  
 - Ensure **data accuracy, security, and compliance** in analytics workflows.  
 
 ## 🚀 Projects & Contributions  
